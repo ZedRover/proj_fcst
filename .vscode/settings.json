@@ -1,0 +1,9 @@
+{
+    "workbench.sash.hoverDelay": 0,
+    "workbench.hover.delay": 0,
+    "terminal.integrated.allowChords": false,
+    "terminal.integrated.drawBoldTextInBrightColors": false,
+    "terminal.integrated.experimentalLinkProvider": false,
+    "terminal.integrated.rendererType": "auto",
+    "terminal.integrated.gpuAcceleration": "off",
+}
